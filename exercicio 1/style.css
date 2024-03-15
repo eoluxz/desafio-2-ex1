@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+:root {
+    --cor-fundo: #98F9FF;
+    --branco-principal: #FFFFFF;  
+    --vermelho: #FF3131;
+    --fonte-primaria: "Madimi One", sans-serif;
+}
+
+
+
+.pag__principal {
+    background-color: var(--cor-fundo);
+    height: 100vh;
+}
+
+.pag__principal__titulo {
+    color: var(--branco-principal) ;
+}
+
+.pag__principal__paragrafo {
+    font-family: var(--fonte-primaria);
+}
+
+
+
